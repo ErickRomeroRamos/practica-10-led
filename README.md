@@ -21,4 +21,8 @@ Programa Node-RED
 ## Requisitos previos
 ### Para poder hacer uso de este repositorio se requiere entrar a Node-RED y a la plataforma de WOKWI.
 
-Instrucciones de preparación del entorno
+# Instrucciones de preparación del entorno
+## configurar los sigietes bloques
+![image](https://github.com/ErickRomeroRamos/practica-10-led/assets/153964793/42ef9db4-16fa-4b5c-9fb6-53b6853df395)
+##
+
