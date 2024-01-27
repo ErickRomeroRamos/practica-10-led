@@ -26,6 +26,8 @@ Programa Node-RED
 ![image](https://github.com/ErickRomeroRamos/practica-10-led/assets/153964793/42ef9db4-16fa-4b5c-9fb6-53b6853df395)
 ## copilar y que se conecte a ña red con la ip que le configuramos como se muestra en la imagen
 ![image](https://github.com/ErickRomeroRamos/practica-10-led/assets/153964793/d2715802-9f02-4112-acec-dcc2ee5e1b6d)
-## se debe controlar con el switch el encendido y apagado del led modo remoto
+## se debe controlar con el switch el encendido y apagado del led
+![image](https://github.com/ErickRomeroRamos/practica-10-led/assets/153964793/0c16eaab-097c-4abb-a6fd-6f63c68b4b40)
+
 
 
